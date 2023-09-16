@@ -6,7 +6,7 @@
 
  This contract will help to add liquidity to your wallet
 
- ## The contract##
+ ## The contract
  Imagine you have a lot of moments and need some liquidity in your wallet. Think in try to sell off all your items in bundle, but this could take days, months or even years. You need money asap, and one thing about NBATS is there a lot of people offering money for the moments.
 
  With this contract you will be able to sell all your moments at the offer price. If the moment doesn´t have a valid offer, then you can list for sale in bundle.
